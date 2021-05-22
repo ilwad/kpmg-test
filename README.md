@@ -40,8 +40,11 @@ one Provider version and one Terraform version defined
 To run the code 
 
 > terraform init
+
 > terraform plan
+
 if you like what you see in your plan then you can run
+
 > terraform apply -auto-approve
 
 
