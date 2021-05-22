@@ -39,12 +39,12 @@ one Provider version and one Terraform version defined
 
 To run the code 
 
-terraform init
-terraform plan
+> terraform init
+> terraform plan
 if you like what you see in your plan then you can run
-terraform apply -auto-approve
+> terraform apply -auto-approve
 
 
 To destroy everything
-terraform destroy -auto-approve
+> terraform destroy -auto-approve
 
